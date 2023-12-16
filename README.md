@@ -1,4 +1,4 @@
-# Control_TurtleSim
+# Control_TurtleSim3
 This code is used to control the turtle simulator for go to goal. ROS 2.
 Para utilização copie a pasta 'py_pubsub' para 'ros2_ws/src'. Em seguida Direcione-se para o diretório 'ros2_wc/', e utilize os seguintes comandos:
 ``` shell
