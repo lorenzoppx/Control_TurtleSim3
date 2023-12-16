@@ -24,5 +24,5 @@ ROS_DOMAIN_ID=<inteiro(0 a 100)> ros2 topic pub /cmd_vel geometry_msgs/msg/Twist
 ```
 Demonstração: <br />
 <p align="center">
-<img src="https://github.com/lorenzoppx/Control_TurtleSim3/blob/main/control.gif" width="300">
+<img src="https://github.com/lorenzoppx/Control_TurtleSim3/blob/main/control.gif" width="600">
 <p />
